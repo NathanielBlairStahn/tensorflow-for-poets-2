@@ -9,3 +9,4 @@ android.iml
 .gradle/
 android/assets/*
 .DS_Store
+.ipynb_checkpoints/
